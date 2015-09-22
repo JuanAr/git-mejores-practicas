@@ -1,6 +1,6 @@
 # Experiencias y mejores practicas con Git y GitHub
 
-## Aprende Git
+## Aprende Git )no lo mergearas
 
 - Leer sobre Git
 - Fucionamiento interno de Git
