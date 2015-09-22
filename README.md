@@ -1,6 +1,5 @@
 # Experiencias y mejores practicas con Git y GitHub
-
-## Aprende Git
+Esto es un ejemplo
 
 - Leer sobre Git
 - Fucionamiento interno de Git
