@@ -1,6 +1,10 @@
 # Experiencias y mejores practicas con Git y GitHub
+<<<<<<< HEAD
 
-## Aprende Git
+## Aprende Git )no lo mergearas
+=======
+Esto es un ejemplo
+>>>>>>> 2b77eec153bb37c12202117a4782b4458498fcbe
 
 - Leer sobre Git
 - Fucionamiento interno de Git
